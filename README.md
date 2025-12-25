@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- New Stunning Futuristic AI Neural Network Banner -->
-<img src="https://media.istockphoto.com/id/1487972668/photo/artificial-neural-network-abstract-technology-background.jpg?s=612x612&w=0&k=20&c=wRn-JFyd8-boqUj91IT2n9vphiINAevPA6sUbqycd6c=" alt="Futuristic AI Neural Network Banner" width="100%" />
+<img src="https://media.istockphoto.com/id/1487972668/photo/https://photos.app.goo.gl/EN3WJy7Kn5EnttKX9" width="100%" />
 
 <br/>
 
