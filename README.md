@@ -1,12 +1,19 @@
 <div align="center">
 
-<!-- Beautiful AI-Themed Banner -->
-<img src="https://www.alignminds.com/wp-content/uploads/2025/01/Alignminds-Blog-Banner-GenAICC-FI-2000x1200.png" alt="AI Banner" width="100%" />
+<!-- New Stunning AI Banner -->
+<img src="https://img.freepik.com/premium-photo/futuristic-ai-technology-background-with-abstract-digital-elements-neural-networks_983074-41592.jpg?w=2000" alt="Futuristic AI Banner" width="100%" />
 
 <br/>
 
-<!-- Enhanced Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=300&section=header&text=Hasnain%20Naseer&fontSize=90&fontColor=fff&animation=twinkling&glow=true&fontAlignY=40" alt="Header" />
+<!-- Stylish Black to White Diagonal Name -->
+<div style="font-size: 72px; font-weight: bold; background: linear-gradient(135deg, black 0%, #333333 40%, #aaaaaa 70%, white 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
+Hasnain Naseer
+</div>
+
+<br/>
+
+<!-- Enhanced Waving Header (subtle backup) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=&fontSize=90&animation=twinkling&glow=true" alt="Waving Header" />
 
 <br/>
 
@@ -15,8 +22,8 @@
 
 <br/><br/>
 
-<!-- Profile Picture with Glow -->
-<img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="200" height="200" style="border-radius:50%; border:8px solid #00BFFF; box-shadow: 0 0 30px #00BFFF;" />
+<!-- Profile Picture with Strong Glow -->
+<img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="200" height="200" style="border-radius:50%; border:8px solid #00BFFF; box-shadow: 0 0 40px #00BFFF;" />
 
 <br/><br/>
 
