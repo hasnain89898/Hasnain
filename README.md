@@ -1,21 +1,26 @@
 <div align="center">
 
-<!-- Contribution Grid Snake Animation as Top Banner -->
-<img src="https://raw.githubusercontent.com/hasnain89898/hasnain89898/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<!-- Beautiful AI-Themed Banner -->
+<img src="https://www.alignminds.com/wp-content/uploads/2025/01/Alignminds-Blog-Banner-GenAICC-FI-2000x1200.png" alt="AI Banner" width="100%" />
 
 <br/>
 
-<!-- Animated Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hasnain%20Naseer&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Animated Header" />
+<!-- Enhanced Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=300&section=header&text=Hasnain%20Naseer&fontSize=90&fontColor=fff&animation=twinkling&glow=true&fontAlignY=40" alt="Header" />
 
 <br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Naseer;BS+Artificial+Intelligence+Student;Python+Developer+%F0%9F%90%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Tech+Writer+%E2%9C%8D%EF%B8%8F;Building+Smart+Solutions!" alt="Typing SVG" />
+<!-- Vibrant Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Naseer;BS+Artificial+Intelligence+Student;Python+Developer+%F0%9F%90%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Tech+Writer+%E2%9C%8D%EF%B8%8F;Building+Smart+AI+Solutions!" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="180" height="180" style="border-radius:50%; border:6px solid #00BFFF; box-shadow: 0 0 20px #00BFFF;" />
+<!-- Profile Picture with Glow -->
+<img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="200" height="200" style="border-radius:50%; border:8px solid #00BFFF; box-shadow: 0 0 30px #00BFFF;" />
+
+<br/><br/>
+
+<hr style="border: 2px solid #00BFFF; border-radius: 10px; width: 60%;" />
 
 </div>
 
@@ -36,9 +41,11 @@ Focusing on algorithms, neural networks, TensorFlow, PyTorch, and practical appl
 
 ## 🎓 Education
 
-| Institution                              | Degree                        | Duration      |
-|------------------------------------------|-------------------------------|---------------|
-| Pak Austria Fachhochschule               | BS Artificial Intelligence    | 2024 – 2028   |
+| Institution                        | Degree                        | Duration    |
+|------------------------------------|-------------------------------|-------------|
+| Pak Austria Fachhochschule         | BS Artificial Intelligence    | 2024 – 2028 |
+
+<hr style="border: 1px dashed #00BFFF; width: 80%; margin: 40px auto;" />
 
 ## 📞 Contact & Links
 
@@ -49,6 +56,8 @@ Focusing on algorithms, neural networks, TensorFlow, PyTorch, and practical appl
 
 I speak fluent Python and C++... and computers actually listen to me! 😎
 
+<hr style="border: 1px dashed #00BFFF; width: 80%; margin: 40px auto;" />
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -57,56 +66,38 @@ I speak fluent Python and C++... and computers actually listen to me! 😎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-naseer-a33036399)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasnain_naseer8)
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
 </div>
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
 
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,python" />
-
-<br/><br/>
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" />
+**Programming Languages**  
+<img src="https://skillicons.dev/icons?i=cpp,python&perline=6" />
 
 <br/><br/>
 
-**Tools & Others**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain89898&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+**AI / Machine Learning**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain89898&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Contribution Snake at Bottom -->
-<img src="https://raw.githubusercontent.com/hasnain89898/hasnain89898/output/snake.svg" alt="Contribution Snake" />
+**Tools & Others**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter&perline=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-
-<br/><br/>
+<hr style="border: 2px solid #00BFFF; border-radius: 10px; width: 60%; margin: 50px auto;" />
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/><br/>
 
 **Thanks for visiting! 🚀**
 
