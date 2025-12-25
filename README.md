@@ -1,28 +1,23 @@
 <div align="center">
 
-<!-- New Stunning Futuristic AI Neural Network Banner -->
-<img src="https://media.istockphoto.com/id/1487972668/photo/https://photos.app.goo.gl/EN3WJy7Kn5EnttKX9" width="100%" />
+<!-- Attractive AI Banner (یہاں اپنا پسندیدہ link ڈالو) -->
+<img src="https://media.istockphoto.com/id/1487972668/photo/artificial-neural-network-abstract-technology-background.jpg?s=612x612&w=0&k=20&c=wRn-JFyd8-boqUj91IT2n9vphiINAevPA6sUbqycd6c=" alt="Futuristic AI Neural Network Banner" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.5);" />
 
 <br/>
 
-<!-- Stylish Black to White Diagonal Name -->
-<div style="font-size: 72px; font-weight: bold; background: linear-gradient(135deg, black 0%, #333333 40%, #aaaaaa 70%, white 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
+<!-- Stylish Diagonal Name -->
+<div style="font-size: 72px; font-weight: bold; background: linear-gradient(135deg, black 0%, #333333 40%, #aaaaaa 70%, white 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; text-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
 Hasnain Naseer
 </div>
 
 <br/>
 
-<!-- Enhanced Waving Header (subtle backup) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=&fontSize=90&animation=twinkling&glow=true" alt="Waving Header" />
-
-<br/>
-
-<!-- Vibrant Typing Animation -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Naseer;BS+Artificial+Intelligence+Student;Python+Developer+%F0%9F%90%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Tech+Writer+%E2%9C%8D%EF%B8%8F;Building+Smart+AI+Solutions!" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Picture with Strong Glow -->
+<!-- Profile Picture -->
 <img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="200" height="200" style="border-radius:50%; border:8px solid #00BFFF; box-shadow: 0 0 40px #00BFFF;" />
 
 <br/><br/>
