@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- New Stunning AI Banner -->
-<img src="https://img.freepik.com/premium-photo/futuristic-ai-technology-background-with-abstract-digital-elements-neural-networks_983074-41592.jpg?w=2000" alt="Futuristic AI Banner" width="100%" />
+<!-- New Reliable Futuristic AI Banner (Unsplash - no hotlink issues) -->
+<img src="https://images.unsplash.com/photo-1676320278456-1c3e8e6d4ac9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Futuristic AI Banner" width="100%" />
 
 <br/>
 
