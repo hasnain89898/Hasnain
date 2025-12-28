@@ -1,106 +1,21 @@
-<div align="center">
+# 💫 About Me:
+🔭Currently Working On<br><br>Content writing and blogging through WordPress<br><br>Developing foundational projects using Python and C++<br><br>👯 Open to Collaboration On<br><br>Entry-level Python and Machine Learning projects<br><br>Technical content creation and educational platforms<br><br>🤝 Seeking Support In<br><br>Practical implementation of Machine Learning algorithms<br><br>Applying ML concepts to real-world problem-solving<br><br>🌱 Currently Learning<br><br>Machine Learning (early-stage learner)<br><br>Strengthening analytical and programming skills with Python<br><br>💬 Ask Me About<br><br>WordPress content writing & blogging<br><br>Fundamentals of Python and C++<br>My learning journey in Machine Learning<br><br>⚡ Fun Fact<br><br>I enjoy blending technical knowledge with clear communication to make complex concepts easy to understand.
 
-<!-- Attractive AI Banner (یہاں اپنا پسندیدہ link ڈالو) -->
-<img src="https://media.istockphoto.com/id/1487972668/photo/artificial-neural-network-abstract-technology-background.jpg?s=612x612&w=0&k=20&c=wRn-JFyd8-boqUj91IT2n9vphiINAevPA6sUbqycd6c=" alt="Futuristic AI Neural Network Banner" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.5);" />
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain_naseer8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasnain-naseer-a33036399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hasnain_naseer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naseerhassnain981@gmail.com) 
 
-<!-- Stylish Diagonal Name -->
-<div style="font-size: 72px; font-weight: bold; background: linear-gradient(135deg, black 0%, #333333 40%, #aaaaaa 70%, white 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; text-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
-Hasnain Naseer
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= hasnain89898&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= hasnain89898&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= hasnain89898&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= hasnain89898&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasnain+Naseer;BS+Artificial+Intelligence+Student;Python+Developer+%F0%9F%90%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Tech+Writer+%E2%9C%8D%EF%B8%8F;Building+Smart+AI+Solutions!" alt="Typing SVG" />
+---
+[![](https://visitcount.itsvg.in/api?id= hasnain89898&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/><br/>
-
-<!-- Profile Picture -->
-<img src="https://github.com/hasnain89898.png" alt="Hasnain Naseer" width="200" height="200" style="border-radius:50%; border:8px solid #00BFFF; box-shadow: 0 0 40px #00BFFF;" />
-
-<br/><br/>
-
-<hr style="border: 2px solid #00BFFF; border-radius: 10px; width: 60%;" />
-
-</div>
-
-## 🚀 About Me
-
-Hi! I'm a **BS Artificial Intelligence** student passionate about building AI-driven solutions.  
-I specialize in Python programming and love turning complex technical topics into simple, easy-to-read articles.  
-Currently diving deep into machine learning and working on real-world AI projects.
-
-## 💼 Current Project
-
-- 🔭 Working on **Dynamic AI Kitchen Assistant** – A smart AI-powered helper for recipes, inventory management, and cooking guidance!
-
-## 🌱 Currently Learning
-
-Exploring Machine Learning in depth with a strong foundation in Python and C++.  
-Focusing on algorithms, neural networks, TensorFlow, PyTorch, and practical applications.
-
-## 🎓 Education
-
-| Institution                        | Degree                        | Duration    |
-|------------------------------------|-------------------------------|-------------|
-| Pak Austria Fachhochschule         | BS Artificial Intelligence    | 2024 – 2028 |
-
-<hr style="border: 1px dashed #00BFFF; width: 80%; margin: 40px auto;" />
-
-## 📞 Contact & Links
-
-- 📫 Email: **naseerhassnain981@gmail.com**
-- 📝 Tech Articles: [vinesnest.com](https://vinesnest.com/)
-
-## ⚡ Fun Fact
-
-I speak fluent Python and C++... and computers actually listen to me! 😎
-
-<hr style="border: 1px dashed #00BFFF; width: 80%; margin: 40px auto;" />
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnain89898)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-naseer-a33036399)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasnain_naseer8)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-**Programming Languages**  
-<img src="https://skillicons.dev/icons?i=cpp,python&perline=6" />
-
-<br/><br/>
-
-**AI / Machine Learning**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=6" />
-
-<br/><br/>
-
-**Tools & Others**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter&perline=6" />
-
-</div>
-
-<div align="center">
-
-<hr style="border: 2px solid #00BFFF; border-radius: 10px; width: 60%; margin: 50px auto;" />
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<br/><br/>
-
-**Thanks for visiting! 🚀**
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
