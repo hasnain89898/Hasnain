@@ -133,8 +133,8 @@ Strong foundation in **Python and C++**
 ### Professional Certifications
 
 <p align="center">
-  <img src="https://i.imgur.com/your-hubspot-cert.png" alt="HubSpot Content Marketing Certification" width="45%" />
-  <img src="https://i.imgur.com/your-alison-cert.png" alt="Alison Prompt Engineering Certification" width="45%" />
+  <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="45%" />
+  <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="45%" />
 </p>
 
 <table>
