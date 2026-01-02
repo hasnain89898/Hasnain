@@ -133,8 +133,12 @@ Strong foundation in **Python and C++**
 ### Professional Certifications
 
 <p align="center">
-  <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="45%" />
-  <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="45%" />
+  <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="400px" height="300px" style="object-fit: cover;" />
+  <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="400px" height="300px" style="object-fit: cover;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A0DC&center=true&vCenter=true&width=600&lines=Certified+Content+Marketing+Specialist;AI+Prompt+Engineering+Expert;Combining+Marketing+%26+Technology" alt="Typing SVG" />
 </p>
 
 <table>
