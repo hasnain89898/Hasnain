@@ -58,6 +58,43 @@
 
 ---
 
+## My Article Websites
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://vinesnest.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VinesNest-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+
+**VinesNest**  
+Premium content and insights
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://softreads.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SoftReads-4ECDC4?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+**SoftReads**  
+Tech articles and tutorials
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Content+Writer+%7C+Tech+Blogger;Sharing+Knowledge+Through+Writing" />
+</p>
+
+</div>
+
+---
+
 ## Tech Stack
 
 <p align="center">
