@@ -2,12 +2,8 @@
 <h3 align="center">BS Artificial Intelligence Student | Content Marketing Specialist | Aspiring ML Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-</div>
 
 ---
 
