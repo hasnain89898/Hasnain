@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasnain Naseer</h1>
+<h1 align="center">Hi, I'm Hasnain Naseer</h1>
 <h3 align="center">BS Artificial Intelligence Student | Content Writer | Aspiring ML Engineer</h3>
 
 <p align="center">
@@ -10,28 +10,28 @@
 ## 💫 About Me
 
 🔭 **Currently Working On**
-- Content writing & blogging using **WordPress**
-- Building foundational projects in **Python & C++**
+- Content writing and blogging through **WordPress**
+- Developing foundational projects using **Python and C++**
 
 👯 **Open to Collaboration On**
-- Entry-level **Python & Machine Learning** projects  
-- Technical content creation & educational platforms
+- Entry-level **Python and Machine Learning** projects  
+- Technical content creation and educational platforms
 
 🤝 **Seeking Support In**
 - Practical implementation of **Machine Learning algorithms**
-- Applying ML concepts to **real-world problems**
+- Applying ML concepts to real-world problem-solving
 
 🌱 **Currently Learning**
 - Machine Learning *(early-stage learner)*
-- Strengthening analytical & programming skills with **Python**
+- Strengthening analytical and programming skills with **Python**
 
 💬 **Ask Me About**
-- WordPress blogging & SEO content writing  
-- Python & C++ fundamentals  
+- WordPress content writing & blogging  
+- Fundamentals of Python and C++  
 - My learning journey in Machine Learning
 
 ⚡ **Fun Fact**
-- I enjoy blending **technical knowledge with clear communication** to simplify complex concepts.
+- I enjoy blending technical knowledge with clear communication to make complex concepts easy to understand.
 
 ---
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -90,6 +90,53 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- **Python Mini Projects**  
+  Beginner-friendly projects focused on logic building and problem-solving.
+
+- **Machine Learning Practice Notebooks**  
+  Hands-on ML implementations using real-world datasets.
+
+- **C++ OOP Assignments**  
+  Academic projects demonstrating object-oriented programming concepts.
+
+---
+
+## 📚 Current Focus
+
+- Data preprocessing and feature engineering  
+- Supervised learning algorithms (Linear Regression, KNN, Decision Trees)  
+- Writing technical blogs that explain ML concepts clearly
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **BS in Artificial Intelligence** *(In Progress)*  
+- Strong foundation in **Python and C++**  
+- Experience in **WordPress blogging** and **SEO-focused content writing**
+
+### 📜 Certification
+- **Prompt Engineering for AI Applications** — *Alison*  
+  - Focus: Ethical AI usage, prompt design, and responsible AI interaction  
+  - Issued: **January 1, 2026**  
+  - Credential ID: **6831-55367358**  
+  - Verification: https://alison.com/verify/db6c7de5c6
+
+---
+
+## 🤝 Open for Opportunities
+
+I am open to:
+- Entry-level Python or Machine Learning roles  
+- Technical writing and educational content creation  
+- Collaborative learning and open-source contributions  
+
+📩 Feel free to connect via LinkedIn or email.
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=hasnain89898&icon=5&color=6" />
 </p>
@@ -97,5 +144,5 @@
 ---
 
 <p align="center">
-✨ <i>“Learning never exhausts the mind — it builds it.”</i> ✨  
+<i>Focused on learning, building, and growing step by step.</i>
 </p>
