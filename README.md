@@ -132,17 +132,17 @@ Strong foundation in **Python and C++**
 
 ### Professional Certifications
 
+<p align="center">
+  <img src="https://i.imgur.com/your-hubspot-cert.png" alt="HubSpot Content Marketing Certification" width="45%" />
+  <img src="https://i.imgur.com/your-alison-cert.png" alt="Alison Prompt Engineering Certification" width="45%" />
+</p>
+
 <table>
 <tr>
 <td align="center" width="50%">
 
 **Content Marketing Certified**  
 **HubSpot Academy**
-
-Fully capable and skilled in content marketing best practices including:
-- Long-term content planning
-- Content creation and promotion
-- Marketing analysis and growth strategies
 
 **Valid:** Nov 22, 2025 - Dec 22, 2027  
 **Credential:** f9f034ff4dd44602b25f0c8a48d3d2ca
@@ -156,11 +156,6 @@ Fully capable and skilled in content marketing best practices including:
 
 **Prompt Engineering for AI Applications**  
 **Alison**
-
-Focus areas:
-- Ethical AI usage
-- Prompt design techniques
-- Responsible AI interaction
 
 **Issued:** January 1, 2026  
 **Credential:** 6831-55367358
@@ -186,19 +181,3 @@ I am open to:
 - Collaborative learning and open-source contributions  
 
 **Contact:** Feel free to connect via LinkedIn or email.
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hasnain89898&icon=5&color=6" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
----
-
-<p align="center">
-<i>Focused on learning, building, and growing step by step.</i>
-</p>
