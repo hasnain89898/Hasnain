@@ -72,24 +72,40 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![](https://nirzak-streak-stats.vercel.app/?user=hasnain89898&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain89898&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hasnain89898&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain89898&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Projects+%7C+Learning+Daily;Python+%E2%9C%A8+Machine+Learning+%E2%9C%A8+AI;Turning+Ideas+Into+Code" />
 </p>
 
 ---
 
 ## Top Contributions
 
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=hasnain89898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hasnain89898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;Always+Learning+%26+Growing" />
 </p>
 
 ---
