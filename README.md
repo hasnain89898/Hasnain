@@ -1,41 +1,49 @@
 <h1 align="center">Hi, I'm Hasnain Naseer</h1>
-<h3 align="center">BS Artificial Intelligence Student | Content Writer | Aspiring ML Engineer</h3>
+<h3 align="center">BS Artificial Intelligence Student | Content Marketing Specialist | Aspiring ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+</div>
+
 ---
 
-## 💫 About Me
+## About Me
 
-🔭 **Currently Working On**
+**Currently Working On**
 - Content writing and blogging through **WordPress**
 - Developing foundational projects using **Python and C++**
+- Applying content marketing strategies to technical communication
 
-👯 **Open to Collaboration On**
+**Open to Collaboration On**
 - Entry-level **Python and Machine Learning** projects  
 - Technical content creation and educational platforms
+- Content marketing and SEO-driven campaigns
 
-🤝 **Seeking Support In**
+**Seeking Support In**
 - Practical implementation of **Machine Learning algorithms**
 - Applying ML concepts to real-world problem-solving
 
-🌱 **Currently Learning**
+**Currently Learning**
 - Machine Learning *(early-stage learner)*
 - Strengthening analytical and programming skills with **Python**
+- Advanced content marketing and growth strategies
 
-💬 **Ask Me About**
+**Ask Me About**
 - WordPress content writing & blogging  
+- Content marketing best practices
 - Fundamentals of Python and C++  
 - My learning journey in Machine Learning
 
-⚡ **Fun Fact**
+**Fun Fact**
 - I enjoy blending technical knowledge with clear communication to make complex concepts easy to understand.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://instagram.com/hasnain_naseer8" target="_blank">
@@ -54,7 +62,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,anaconda,git,github,wordpress,photoshop,illustrator" />
@@ -66,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -82,7 +90,7 @@
 
 ---
 
-## 🔝 Top Contributions
+## Top Contributions
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=hasnain89898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
@@ -90,7 +98,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **Python Mini Projects**  
   Beginner-friendly projects focused on logic building and problem-solving.
@@ -103,43 +111,91 @@
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Data preprocessing and feature engineering  
 - Supervised learning algorithms (Linear Regression, KNN, Decision Trees)  
 - Writing technical blogs that explain ML concepts clearly
+- Content marketing strategy and implementation
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-- **BS in Artificial Intelligence** *(In Progress)*  
-- Strong foundation in **Python and C++**  
-- Experience in **WordPress blogging** and **SEO-focused content writing**
+<div align="center">
 
-### 📜 Certification
-- **Prompt Engineering for AI Applications** — *Alison*  
-  - Focus: Ethical AI usage, prompt design, and responsible AI interaction  
-  - Issued: **January 1, 2026**  
-  - Credential ID: **6831-55367358**  
-  - Verification: https://alison.com/verify/db6c7de5c6
+### Academic
+**BS in Artificial Intelligence** | *In Progress*  
+Strong foundation in **Python and C++**
 
 ---
 
-## 🤝 Open for Opportunities
+### Professional Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Content Marketing Certified**  
+**HubSpot Academy**
+
+Fully capable and skilled in content marketing best practices including:
+- Long-term content planning
+- Content creation and promotion
+- Marketing analysis and growth strategies
+
+**Valid:** Nov 22, 2025 - Dec 22, 2027  
+**Credential:** f9f034ff4dd44602b25f0c8a48d3d2ca
+
+<a href="https://academy.hubspot.com/achievements/f9f034ff4dd44602b25f0c8a48d3d2ca" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+**Prompt Engineering for AI Applications**  
+**Alison**
+
+Focus areas:
+- Ethical AI usage
+- Prompt design techniques
+- Responsible AI interaction
+
+**Issued:** January 1, 2026  
+**Credential:** 6831-55367358
+
+<a href="https://alison.com/verify/db6c7de5c6" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-00A0DC?style=for-the-badge&logo=alison&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Open for Opportunities
 
 I am open to:
 - Entry-level Python or Machine Learning roles  
+- Content marketing and SEO specialist positions
 - Technical writing and educational content creation  
 - Collaborative learning and open-source contributions  
 
-📩 Feel free to connect via LinkedIn or email.
+**Contact:** Feel free to connect via LinkedIn or email.
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=hasnain89898&icon=5&color=6" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 ---
 
