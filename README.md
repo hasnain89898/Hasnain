@@ -77,15 +77,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnain89898&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hasnain89898&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hasnain89898&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain89898&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain89898&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## Top Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hasnain89898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=hasnain89898&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
