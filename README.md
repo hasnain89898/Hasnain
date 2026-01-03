@@ -136,6 +136,20 @@ Tech articles and tutorials
 
 ---
 
+## Top Contributions
+
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=hasnain89898&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;Always+Learning+%26+Growing" />
+</p>
+
+---
+
 ## Featured Projects
 
 - **Python Mini Projects**  
