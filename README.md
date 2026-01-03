@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Hasnain Naseer</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hasnain%20Naseer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
+
 <h3 align="center">BS Artificial Intelligence Student | Content Marketing Specialist | Aspiring ML Engineer</h3>
 
 <p align="center">
