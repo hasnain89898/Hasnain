@@ -140,7 +140,7 @@ Tech articles and tutorials
 
 <div align="center">
   
-![](https://github-readme-activity-graph.vercel.app/graph?username=hasnain89898&theme=tokyo-night&hide_border=true&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=hasnain89898&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff)
 
 </div>
 
