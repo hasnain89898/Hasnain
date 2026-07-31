@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hasnain%20Naseer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">BS Artificial Intelligence Student | Content Marketing Specialist | Aspiring ML Engineer</h3>
+<h3 align="center">BS Artificial Intelligence Student | Machine Learning Developer | Content Marketing Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,32 +13,31 @@
 ## About Me
 
 **Currently Working On**
-- Content writing and blogging through **WordPress**
-- Developing foundational projects using **Python and C++**
-- Applying content marketing strategies to technical communication
+- **Machine Learning & Data Science:** Predictive models, feature engineering, and model validation using Python.
+- **Applied AI Projects:** Multi-modal tracking systems and predictive delay analytics.
+- **Content Strategy & Publishing:** SEO-driven technical blogging via **WordPress** on VinesNest and SoftReads.
 
 **Open to Collaboration On**
-- Entry-level **Python and Machine Learning** projects  
-- Technical content creation and educational platforms
-- Content marketing and SEO-driven campaigns
+- Applied **Python and Machine Learning** projects (Classification, Regression, Ensemble models).
+- AI/ML workflow automation and data processing pipelines.
+- Technical content marketing, documentation, and educational tech platforms.
 
 **Seeking Support In**
-- Practical implementation of **Machine Learning algorithms**
-- Applying ML concepts to real-world problem-solving
+- Advanced ML optimization techniques and deployment pipelines.
+- Real-time data streaming and complex ensemble models.
 
 **Currently Learning**
-- Machine Learning *(early-stage learner)*
-- Strengthening analytical and programming skills with **Python**
-- Advanced content marketing and growth strategies
+- Advanced Machine Learning architectures and feature engineering strategies.
+- Workflow automation integration (**n8n**, **Botpress**) with AI backends.
+- Scalable data visualization and analytical modeling.
 
 **Ask Me About**
-- WordPress content writing & blogging  
-- Content marketing best practices
-- Fundamentals of Python and C++  
-- My learning journey in Machine Learning
+- Machine Learning pipelines & Python data analysis (**pandas, NumPy, scikit-learn, Seaborn**).
+- Dynamic database schema design & SQL setups.
+- Content marketing strategies, keyword research, and WordPress growth.
 
 **Fun Fact**
-- I enjoy blending technical knowledge with clear communication to make complex concepts easy to understand.
+- I bridge the gap between complex Machine Learning concepts and clear, actionable technical writing.
 
 ---
 
@@ -101,11 +100,11 @@ Tech articles and tutorials
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,anaconda,git,github,wordpress,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,anaconda,git,github,wordpress,mysql,photoshop" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matlab" />
 </p>
 
 ---
@@ -131,7 +130,7 @@ Tech articles and tutorials
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Projects+%7C+Learning+Daily;Python+%E2%9C%A8+Machine+Learning+%E2%9C%A8+AI;Turning+Ideas+Into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+ML+Models+%7C+Solving+Problems;Python+%E2%9C%A8+Data+Science+%E2%9C%A8+AI;Turning+Data+Into+Actionable+Code" />
 </p>
 
 ---
@@ -144,31 +143,30 @@ Tech articles and tutorials
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;Always+Learning+%26+Growing" />
-</p>
-
 ---
 
 ## Featured Projects
 
-- **Python Mini Projects**  
-  Beginner-friendly projects focused on logic building and problem-solving.
+- **Multi-Modal Cargo Tracking System**  
+  A predictive transport system integrating real-time mapping data with Gradient Boosting Machine models to forecast delivery delays.
 
-- **Machine Learning Practice Notebooks**  
-  Hands-on ML implementations using real-world datasets.
+- **Fake News Detection & Reporting System**  
+  A structured database management system featuring complete entity-relational logic designed to trace and analyze source credibility.
 
-- **C++ OOP Assignments**  
-  Academic projects demonstrating object-oriented programming concepts.
+- **Smart Home Automation Hub**  
+  System architecture design featuring detailed UML models (Class, Sequence, Activity) mapping IoT control logic.
+
+- **Machine Learning Practice & Imputation Notebooks**  
+  Hands-on ML modules implementing categorical encoding, missing value imputation, and ensemble trees (Random Forests, Gradient Boosting) on complex datasets.
 
 ---
 
 ## Current Focus
 
-- Data preprocessing and feature engineering  
-- Supervised learning algorithms (Linear Regression, KNN, Decision Trees)  
-- Writing technical blogs that explain ML concepts clearly
-- Content marketing strategy and implementation
+- Gradient Boosting Machines & Random Forest optimizations  
+- Advanced data preprocessing, categorical encoding, and feature engineering  
+- Automated database workflows and API integration  
+- SEO growth and technical blog writing on ML/AI topics  
 
 ---
 
@@ -178,29 +176,43 @@ Tech articles and tutorials
 
 ### Academic
 **BS in Artificial Intelligence** | *In Progress*  
-Strong foundation in **Python and C++**
+Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology  
+*Focus on Machine Learning, Python, C++, and Database Management Systems*
 
 ---
 
 ### Professional Certifications
 
 <p align="center">
-  <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="400px" height="300px" style="object-fit: cover;" />
-  <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="400px" height="300px" style="object-fit: cover;" />
+  <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
+  <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
+  <img src="https://i.supaimg.com/09213901-9ff8-41dc-a55a-4791a6cbb5ed/d734ffc5-ffa3-4e33-8f71-682346e1dad8.jpg" alt="Kaggle Intermediate Machine Learning Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A0DC&center=true&vCenter=true&width=600&lines=Certified+Content+Marketing+Specialist;AI+Prompt+Engineering+Expert;Combining+Marketing+%26+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00A0DC&center=true&vCenter=true&width=650&lines=Machine+Learning+Specialist;Certified+Content+Marketer;AI+Prompt+Engineering+Expert" alt="Typing SVG" />
 </p>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
+
+**Intermediate Machine Learning**  
+**Kaggle**
+
+Hands-on training in missing values, categorical encoding, pipelines, and XGBoost.
+
+<a href="https://www.kaggle.com/learn/certification" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
 
 **Content Marketing Certified**  
 **HubSpot Academy**
 
-**Valid:** Nov 22, 2025 - Dec 22, 2027  
+**Valid:** Nov 2025 - Dec 2027  
 **Credential:** f9f034ff4dd44602b25f0c8a48d3d2ca
 
 <a href="https://academy.hubspot.com/achievements/f9f034ff4dd44602b25f0c8a48d3d2ca" target="_blank">
@@ -208,9 +220,9 @@ Strong foundation in **Python and C++**
 </a>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**Prompt Engineering for AI Applications**  
+**Prompt Engineering for AI**  
 **Alison**
 
 **Issued:** January 1, 2026  
@@ -231,9 +243,9 @@ Strong foundation in **Python and C++**
 ## Open for Opportunities
 
 I am open to:
-- Entry-level Python or Machine Learning roles  
-- Content marketing and SEO specialist positions
-- Technical writing and educational content creation  
-- Collaborative learning and open-source contributions  
+- Machine Learning & Data Science Internships / Entry-level roles  
+- Python Developer positions  
+- Technical Content Marketing & SEO Specialist roles  
+- Open-source collaborations & AI project development  
 
-**Contact:** Feel free to connect via LinkedIn or email.
+**Contact:** Feel free to connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399) or [Email](mailto:naseerhassnain981@gmail.com).
