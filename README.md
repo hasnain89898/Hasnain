@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hasnain%20Naseer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">BS Artificial Intelligence Student | Machine Learning Developer | Content Marketing Specialist</h3>
+<h3 align="center">BS Artificial Intelligence Student | Machine Learning Engineer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasnain89898&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,31 +13,31 @@
 ## About Me
 
 **Currently Working On**
-- **Machine Learning & Data Science:** Predictive models, feature engineering, and model validation using Python.
-- **Applied AI Projects:** Multi-modal tracking systems and predictive delay analytics.
-- **Content Strategy & Publishing:** SEO-driven technical blogging via **WordPress** on VinesNest and SoftReads.
+- **Machine Learning & Data Science:** Predictive modeling, feature engineering, missing value imputation, and ensemble methods.
+- **Applied AI Projects:** Multi-modal tracking systems and predictive delay models.
+- **Data Analysis:** Exploratory data analysis and visualization using Python.
 
 **Open to Collaboration On**
-- Applied **Python and Machine Learning** projects (Classification, Regression, Ensemble models).
-- AI/ML workflow automation and data processing pipelines.
-- Technical content marketing, documentation, and educational tech platforms.
+- **Python & Machine Learning** projects (Classification, Regression, Gradient Boosting, Random Forests).
+- Data processing pipelines and automated analytical workflows.
+- Open-source AI tools and model implementations.
 
 **Seeking Support In**
-- Advanced ML optimization techniques and deployment pipelines.
-- Real-time data streaming and complex ensemble models.
+- Advanced ML optimization techniques and deep learning architectures.
+- Deploying machine learning models to production environments.
 
 **Currently Learning**
-- Advanced Machine Learning architectures and feature engineering strategies.
-- Workflow automation integration (**n8n**, **Botpress**) with AI backends.
-- Scalable data visualization and analytical modeling.
+- Advanced Machine Learning techniques and pipeline optimization.
+- Data visualization and analytics using **pandas, NumPy, Seaborn, and Matplotlib**.
+- Workflow automation framework integration.
 
 **Ask Me About**
-- Machine Learning pipelines & Python data analysis (**pandas, NumPy, scikit-learn, Seaborn**).
-- Dynamic database schema design & SQL setups.
-- Content marketing strategies, keyword research, and WordPress growth.
+- Machine Learning models and Python data manipulation (**pandas, scikit-learn, NumPy**).
+- Database design, SQL, and system modeling.
+- Python and C++ fundamentals.
 
 **Fun Fact**
-- I bridge the gap between complex Machine Learning concepts and clear, actionable technical writing.
+- I enjoy translating complex machine learning logic into clean, structured code and visual representations.
 
 ---
 
@@ -60,47 +60,10 @@
 
 ---
 
-## My Article Websites
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://vinesnest.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VinesNest-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-
-**VinesNest**  
-Premium content and insights
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://softreads.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SoftReads-4ECDC4?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-**SoftReads**  
-Tech articles and tutorials
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Content+Writer+%7C+Tech+Blogger;Sharing+Knowledge+Through+Writing" />
-</p>
-
-</div>
-
----
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,anaconda,git,github,wordpress,mysql,photoshop" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,anaconda,git,github,mysql,photoshop" />
 </p>
 
 <p align="center">
@@ -148,25 +111,16 @@ Tech articles and tutorials
 ## Featured Projects
 
 - **Multi-Modal Cargo Tracking System**  
-  A predictive transport system integrating real-time mapping data with Gradient Boosting Machine models to forecast delivery delays.
+  Predictive transport system integrating real-time GPS location tracking with Gradient Boosting Machine models to forecast delivery delays.
 
 - **Fake News Detection & Reporting System**  
-  A structured database management system featuring complete entity-relational logic designed to trace and analyze source credibility.
+  Academic database management system featuring complete ER diagrams, schema relationships, and source tracking functionality.
 
 - **Smart Home Automation Hub**  
-  System architecture design featuring detailed UML models (Class, Sequence, Activity) mapping IoT control logic.
+  Software architecture system mapping out IoT device management through detailed UML class, activity, and sequence diagrams.
 
-- **Machine Learning Practice & Imputation Notebooks**  
-  Hands-on ML modules implementing categorical encoding, missing value imputation, and ensemble trees (Random Forests, Gradient Boosting) on complex datasets.
-
----
-
-## Current Focus
-
-- Gradient Boosting Machines & Random Forest optimizations  
-- Advanced data preprocessing, categorical encoding, and feature engineering  
-- Automated database workflows and API integration  
-- SEO growth and technical blog writing on ML/AI topics  
+- **Machine Learning Practice & Preprocessing Notebooks**  
+  Hands-on ML pipelines implementing categorical encoding, missing value imputation, and ensemble trees (Random Forests, XGBoost).
 
 ---
 
@@ -177,20 +131,20 @@ Tech articles and tutorials
 ### Academic
 **BS in Artificial Intelligence** | *In Progress*  
 Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology  
-*Focus on Machine Learning, Python, C++, and Database Management Systems*
+*Focus on Machine Learning, Data Structures, Python, C++, and Database Systems*
 
 ---
 
 ### Professional Certifications
 
 <p align="center">
+  <img src="https://i.supaimg.com/09213901-9ff8-41dc-a55a-4791a6cbb5ed/d734ffc5-ffa3-4e33-8f71-682346e1dad8.jpg" alt="Kaggle Intermediate Machine Learning Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
   <img src="https://i.supaimg.com/5f396333-f655-46be-83f9-42b2129d7bd1.jpg" alt="HubSpot Content Marketing Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
   <img src="https://i.supaimg.com/1c26460d-9be6-40c4-a55c-5f918fd94653.jpg" alt="Alison Prompt Engineering Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
-  <img src="https://i.supaimg.com/09213901-9ff8-41dc-a55a-4791a6cbb5ed/d734ffc5-ffa3-4e33-8f71-682346e1dad8.jpg" alt="Kaggle Intermediate Machine Learning Certification" width="280px" height="200px" style="object-fit: cover; margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00A0DC&center=true&vCenter=true&width=650&lines=Machine+Learning+Specialist;Certified+Content+Marketer;AI+Prompt+Engineering+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=20BEFF&center=true&vCenter=true&width=650&lines=Kaggle+Certified+ML+Learner;Certified+Content+Marketer;AI+Prompt+Engineering+Expert" alt="Typing SVG" />
 </p>
 
 <table>
@@ -200,10 +154,10 @@ Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology
 **Intermediate Machine Learning**  
 **Kaggle**
 
-Hands-on training in missing values, categorical encoding, pipelines, and XGBoost.
+Missing Values, Categorical Variables, Pipelines, XGBoost & Data Imputation.
 
 <a href="https://www.kaggle.com/learn/certification" target="_blank">
-  <img src="https://img.shields.io/badge/Verify-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </td>
@@ -243,9 +197,9 @@ Hands-on training in missing values, categorical encoding, pipelines, and XGBoos
 ## Open for Opportunities
 
 I am open to:
-- Machine Learning & Data Science Internships / Entry-level roles  
-- Python Developer positions  
-- Technical Content Marketing & SEO Specialist roles  
-- Open-source collaborations & AI project development  
+- Machine Learning & Data Science Internships / Entry-level positions  
+- Python Development roles  
+- Data Analysis & AI workflow collaborations  
+- Open-source contributions  
 
-**Contact:** Feel free to connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399) or [Email](mailto:naseerhassnain981@gmail.com).
+**Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399) or [Email](mailto:naseerhassnain981@gmail.com).
