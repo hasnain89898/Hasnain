@@ -46,6 +46,9 @@
 <a href="https://www.linkedin.com/in/hasnain-naseer-a33036399" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/hasnain_naseer8/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+</a>
 <a href="mailto:naseerhassnain981@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
@@ -202,4 +205,4 @@ I am open to:
 - Python Developer Positions  
 - AI/ML Research & Open-Source Projects  
 
-**Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399) or [Email](mailto:naseerhassnain981@gmail.com).
+**Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399), [Instagram](https://www.instagram.com/hasnain_naseer8/), or [Email](mailto:naseerhassnain981@gmail.com).
