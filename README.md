@@ -1,3 +1,5 @@
+
+```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hasnain%20Naseer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
@@ -63,7 +65,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matlab" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matlab,pytorch" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
 </p>
 
 ---
@@ -206,3 +209,4 @@ I am open to:
 - AI/ML Research & Open-Source Projects  
 
 **Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/hasnain-naseer-a33036399), [Instagram](https://www.instagram.com/hasnain_naseer8/), or [Email](mailto:naseerhassnain981@gmail.com).
+```
